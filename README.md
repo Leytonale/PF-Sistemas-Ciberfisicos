@@ -8,7 +8,7 @@ Este proyecto ha sido desarrollado por un equipo de  personas:
 
 1. [William Leyton](www.github.com/wleyton89)
 2. [Alejandro Leyton](www.github.com/leytonale)
-3. []()
+3. [Alfredo Palacios](https://github.com/alfredop37)
 4. []()
 5. []()
 
