@@ -8,7 +8,7 @@ Este proyecto ha sido desarrollado por un equipo de  3 personas:
 
 1. [William Leyton](www.github.com/wleyton89)
 2. [Alejandro Leyton](www.github.com/leytonale)
-3. [Alfredo Palacios(www.github.com/alfredop37)
+3. [Alfredo Palacios](www.github.com/alfredop37)
 
 
 ## Estructura de Carpetas
