@@ -19,7 +19,7 @@ Este proyecto ha sido desarrollado por un equipo de  personas:
   - `Simulación/`: Archivos relacionados con la simulación del proceso de limpieza CIP.
   - `Documentación/`: Documentos explicativos y manuales de uso.
 
-- `Linea_de_Produccion/`: Contiene el código y documentación relacionada con el sistema de control de la línea de producción.
+- `Production_Line/`: Contiene el código y documentación relacionada con el sistema de control de la línea de producción.
   - `Modelado_y_Diseño/`: Archivos que describen el modelado y diseño del proceso de producción.
   - `Simulación/`: Archivos relacionados con la simulación de la línea de producción.
   - `Documentación/`: Documentación sobre el sistema de control y recomendaciones para futuras mejoras.
