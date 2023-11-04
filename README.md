@@ -26,6 +26,6 @@ Este proyecto ha sido desarrollado por un equipo de  personas:
 
 ## Licencia
 
-Este proyecto se distribuye bajo la licencia XYZ. Consulta el archivo LICENSE para más detalles.
+Este proyecto se distribuye bajo la licencia MIT. Consulta el archivo LICENSE para más detalles.
 
 
