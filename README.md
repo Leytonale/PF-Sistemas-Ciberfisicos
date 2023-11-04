@@ -1,7 +1,5 @@
 # Proyecto Final Sistemas Ciberfisicos
 
-# Proyecto de Sistemas Ciberfísicos y Automatización de Eventos Discretos
-
 Este proyecto se centra en la automatización de eventos discretos y sistemas ciberfísicos. El objetivo principal es diseñar y simular un sistema de control para un proceso de limpieza CIP con tres tanques y una línea de producción que incluye etapas de alimentación de materiales, procesamiento, inspección de calidad y embalaje.
 
 ## Integrantes del Equipo
