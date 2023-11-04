@@ -4,13 +4,12 @@ Este proyecto se centra en la automatización de eventos discretos y sistemas ci
 
 ## Integrantes del Equipo
 
-Este proyecto ha sido desarrollado por un equipo de  personas:
+Este proyecto ha sido desarrollado por un equipo de  3 personas:
 
 1. [William Leyton](www.github.com/wleyton89)
 2. [Alejandro Leyton](www.github.com/leytonale)
-3. []()
-4. []()
-5. []()
+3. [Alfredo Palacios(www.github.com/alfredop37)
+
 
 ## Estructura de Carpetas
 
