@@ -1,0 +1,1 @@
+realiza el proceso de llenado y vaciado bien, funcional el boton PG para detener, falta el funcionamiento correcto del boton Rt reset
