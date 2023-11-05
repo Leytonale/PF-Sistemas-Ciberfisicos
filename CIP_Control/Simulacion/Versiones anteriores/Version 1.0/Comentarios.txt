@@ -1,0 +1,5 @@
+se realiza la conexion de los tres tanques, con las 6 valvulas y los motores.
+se prueba el llenado y vaciado de los mismos.
+Orden, se llena 1, se llena 2, se llena 3
+se vacia 1, se vacia 2 y se vacia 3.
+ 
