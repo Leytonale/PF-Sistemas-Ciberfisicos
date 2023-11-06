@@ -1,5 +1,7 @@
 # Proyecto Final Sistemas Ciberfisicos
 
+![Cip](https://github.com/Leytonale/PF-Sistemas-Ciberfisicos/assets/108815579/b800bbab-26a9-4c4e-9572-818586ee93c1)
+
 Este proyecto se centra en la automatización de eventos discretos y sistemas ciberfísicos. El objetivo principal es diseñar y simular un sistema de control para un proceso de limpieza CIP con tres tanques y una línea de producción que incluye etapas de alimentación de materiales, procesamiento, inspección de calidad y embalaje.
 
 ## Integrantes del Equipo
